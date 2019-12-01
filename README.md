@@ -1,6 +1,6 @@
 ![](https://github.com/agoda-com/cicd/workflows/Nodejs/badge.svg)
 
-# Workflows CICD Workshop
+# Workflows CICD Workshop Tle
 
 ## Table of Contents
 - [How to fork the repository](#how-to-fork-the-repository)
